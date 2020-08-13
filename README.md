@@ -2,8 +2,8 @@
 
 
 <p align="center">
-<img src="https://media.giphy.com/media/jRAih7x2GxBEOQ3Kk7/giphy.gif" width="400" />
-</p>
+<img src="https://media.giphy.com/media/jRAih7x2GxBEOQ3Kk7/giphy.gif" width="700" />
+
 
 
 
@@ -20,4 +20,4 @@
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... Umm "Thinking"
 
-
+</p>

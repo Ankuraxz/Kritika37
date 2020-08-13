@@ -1,6 +1,9 @@
 
 
-![gif from Animated GIF ](https://media.giphy.com/media/jRAih7x2GxBEOQ3Kk7/giphy.gif)
+
+<p align="center">
+<img src="https://media.giphy.com/media/jRAih7x2GxBEOQ3Kk7/giphy.gif" width="400" />
+</p>
 
 
 

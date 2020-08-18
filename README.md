@@ -1,15 +1,18 @@
 
 #Hi there!
 
+
+
+
+
+
+
+
+
+
 <p align="center">
-![gif](https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
+<img src="https://media.giphy.com/media/jRAih7x2GxBEOQ3Kk7/giphy.gif" width="700" />
 </p>
-
-
-
-
-
-
 
 
 <p align="center">

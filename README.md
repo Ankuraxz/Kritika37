@@ -2,7 +2,7 @@
 #Hi there!
 
 <p align="center">
-<img src="https://app.animaker.com/video?e=MK5KA229RKGHD6HD" width="700" />
+![gif](https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
 </p>
 
 

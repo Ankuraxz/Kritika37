@@ -21,7 +21,6 @@
  <p align="center">
  <img src="https://komarev.com/ghpvc/?username=Kritika37" alt="Kritika" />
 </p>
-
 </p>
 
 
